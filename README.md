@@ -2,7 +2,7 @@
 Primer repositorio creado en GitHub
 // Calcula el promedio de una lista de n datos
 
-Algoritmo Promedio
+Algoritmo Promedio: Juan Torres
 	
 	Escribir "Ingrese la cantidad de datos:"
 	Leer n
